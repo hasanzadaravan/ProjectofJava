@@ -1,0 +1,6 @@
+ /.idea
+ /.gitignore
+ /Person.iml
+/out/production/Person/Students.class
+/out/production/Person/Teacher.class
+/src/Person.java
